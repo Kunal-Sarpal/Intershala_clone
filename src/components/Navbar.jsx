@@ -2,7 +2,7 @@ import React from "react";
 
 function Navbar() {
   return (
-    <div className="flex justify-around  items-center px-2   text-lg font-semibold max-w-screen-xl m-auto border-b">
+    <div className="flex justify-around  items-center px-2   text-md font-semibold max-w-screen-xl m-auto border-b">
       <div className="flex gap-10 justify-center items-center ">
         <div className="h-fit w-32"><img className="w-full h-full object-cover"src="https://internshala.com//static/images/internshala_og_image.jpg" alt="" /></div>
         <div>Interships</div>

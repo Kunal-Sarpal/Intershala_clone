@@ -47,14 +47,14 @@ function PrevArrow(props) {
 
 export default function Car() {
   const data = [
-    "../public/kunal1.webp",
-    "../public/kunal2.webp",
-    "../public/kunal3.webp",
-    "../public/kunal4.webp",
-    "../public/kunal5.webp",
-    "../public/kunal6.webp",
-    "../public/kunal7.webp",
-    "../public/kunal8.webp",
+    "https://i.postimg.cc/9M5j5qts/kunal1.png",
+    "https://i.postimg.cc/T2cvF1yH/kunal2.png",
+    "https://i.postimg.cc/NFQqLqn4/kunal3.png",
+    "https://i.postimg.cc/kGwrbY3d/kunal4.png",
+    "https://i.postimg.cc/PxWntrSJ/kunal5.png",
+    "https://i.postimg.cc/BQQf03HZ/kunal6.png",
+    "https://i.postimg.cc/9M5j5qts/kunal1.png",
+ 
   ];
 
   var settings = {
