@@ -75,7 +75,7 @@ function Mar() {
         </div>
       </div>
     </div>
-    <div className="w-full h-[67%]"><img className="w-full h-full object-contain" src="../public/kunal9.png" alt="" />
+    <div className="w-full h-[67%]"><img className="w-full h-full object-contain" src="https://i.postimg.cc/yNdYL9YK/kunal9.png" alt="" />
 </div>
 
     </div>
